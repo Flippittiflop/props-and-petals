@@ -9,6 +9,48 @@
  */
 {
   "sections": {
+    "rich_text_Pbm6Jz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kw7czN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Props & Petals",
+            "heading_size": "h1"
+          }
+        },
+        "text_NPcBTe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We make your events <strong>unforgettable</strong>, with our <strong>one of a kind</strong> life-size <strong>material flowers</strong></p>"
+          }
+        },
+        "button_phataE": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_kw7czN",
+        "text_NPcBTe",
+        "button_phataE"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -93,6 +135,7 @@
     }
   },
   "order": [
+    "rich_text_Pbm6Jz",
     "image-with-text",
     "video_8zWP7X",
     "featured-collection"

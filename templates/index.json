@@ -48,6 +48,21 @@
         "padding_bottom": 0
       }
     },
+    "video_8zWP7X": {
+      "type": "video",
+      "settings": {
+        "heading": "Bring your events to life",
+        "heading_size": "h2",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/Moving_Flowers_Front.mov",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "Opening and Closing Mechanical Flowers",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -75,26 +90,11 @@
         "padding_top": 56,
         "padding_bottom": 68
       }
-    },
-    "video_8zWP7X": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "enable_video_looping": true,
-        "video": "shopify://files/videos/Moving_Flowers_Front.mov",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "Opening and Closing Mechanical Flowers",
-        "full_width": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "image-with-text",
-    "featured-collection",
-    "video_8zWP7X"
+    "video_8zWP7X",
+    "featured-collection"
   ]
 }

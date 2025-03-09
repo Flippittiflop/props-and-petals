@@ -34,6 +34,13 @@
           "type": "price",
           "settings": {}
         },
+        "text_4eNh3D": {
+          "type": "text",
+          "settings": {
+            "text": "per day!",
+            "text_style": "body"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -68,6 +75,7 @@
         "title",
         "text_NKKrLG",
         "price",
+        "text_4eNh3D",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
